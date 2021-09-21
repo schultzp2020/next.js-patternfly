@@ -11,8 +11,8 @@ const manifest = {
   display: 'standalone',
   scope: basePath,
   start_url: basePath,
-  name: 'Registry Viewer',
-  short_name: 'Registry Viewer',
+  name: 'Next.js Patternfly',
+  short_name: 'Next.js Patternfly',
   icons: [
     {
       src: 'images/icons/pwa-192x192.png',
